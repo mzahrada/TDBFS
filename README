@@ -1,0 +1,6 @@
+Searching the Graph
+-------------------
+
+For a given list of adjacent vertices of a graph and a chosen vertex v write down in the Depth First Search (DFS) or Breadth First Search (BFS) order all the vertices from the connected component of the graph containing v. Assume that the number of vertices of the graph is at most 1000. 
+
+--- 1st HW on MI-RUB on FIT CTU Prague --- 
